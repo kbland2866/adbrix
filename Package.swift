@@ -23,7 +23,7 @@ let package = Package(
                        name: "AdbrixTests",
                        dependencies: ["Adbrix"]),
         .binaryTarget(name: "Adbrix",
-                      path: "./Sources/Adbrix/AdbrixRM_XC.xcframework"),
+                      path: "./Sources/Adbrix/AdBrixRmKit.xcframework"),
     ]
 )
 
