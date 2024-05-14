@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		iE4AyH7I/fD1LQB0FSh0XkBlL5g=
+		gKDCwB38siJTuZvnXs81X0xNhxg=
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IAGHbUk2Aj0xwhhH+A2I4W24Myw=
+		LKpWmGrgyui7JQRqZX4SaAU9xZw=
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		iE4AyH7I/fD1LQB0FSh0XkBlL5g=
+		gKDCwB38siJTuZvnXs81X0xNhxg=
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/AdBrixRmKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		78SzfE33x6n2GJoIdJZWYbWqWKc=
+		T5REoY67QhfDAlnOJ1G5pN+CWSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		RYqvqJch+PQXTIwZXrob6B5Ks4Q=
+		jR5kks/wyXPVXeOvTLbLYPKn2g0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6CqysbVM0SpLwvtQYrXIrcagQ5gqi26aE7XYUh7z0RY=
+			TnK5lEwtmnVO9rURPCM9iZE3FVsom4M0O2/GQBUmQTg=
 			</data>
 		</dict>
 		<key>Modules/AdBrixRmKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1DYX8Bi+SxHoYwwm8VdYWLHTu1XdNPhPbcvD6fM5dIo=
+			pzYZC4nWrWnEBUFUnScR5xcO9Vz1jfX8SThRUeBoL0M=
 			</data>
 		</dict>
 		<key>Modules/AdBrixRmKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6CqysbVM0SpLwvtQYrXIrcagQ5gqi26aE7XYUh7z0RY=
+			TnK5lEwtmnVO9rURPCM9iZE3FVsom4M0O2/GQBUmQTg=
 			</data>
 		</dict>
 		<key>Modules/AdBrixRmKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ZOky86xOyD1lIWTiJlpxCDgzF44eVqzEA5nTkul/0Y=
+			jctxoHbuCJp4q2jiKvMoV7BncvrpXtPoYc3sjzg+yMY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f+gZIJcJRKPCyHusOMG+jtftA3tQchmTf34KnM/k/s4=
+			gOOIgdv7OxZfnvNc+kOyjqwA1bGAWKEnWIwpQZOEHJ8=
 			</data>
 		</dict>
 	</dict>
